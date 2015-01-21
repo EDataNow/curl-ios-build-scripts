@@ -63,7 +63,7 @@ module CurlBuilder
     curldebug:          false,
     sdk_version:        "8.1",
     osx_sdk_version:    "10.10",
-    libcurl_version:    "7.39.0",
+    libcurl_version:    "7.40.0",
     architectures:      %w(i386 armv7 armv7s arm64 x86_64),
     xcode_home:         "/Applications/Xcode.app/Contents/Developer",
     run_on_dir:         Dir::pwd,
